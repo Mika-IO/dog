@@ -1,2 +1,5 @@
-# dog
-A similar command to cat with syntax highlighting 🐶
+# Dog 🐶
+
+A similar command to cat with syntax highlighting 
+
+  dog example.py
